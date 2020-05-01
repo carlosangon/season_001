@@ -1,5 +1,3 @@
-OK Coders: Lesson 4 Exercises
-=====
 
 For these exercises you'll be working with the files in the public directory in this folder. There is an HTML file for each section of this lesson material. Inside those file you'll find a `script` tag with additional instructions. Fill out the `script` tag with your JavaScript.
 
